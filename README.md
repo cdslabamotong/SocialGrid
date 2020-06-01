@@ -13,11 +13,21 @@ This code is written in Python. To use it you will need:
 ## Usage
 ### Run the demo
 ```
-python train.py
+python train_reply.py
+python train_main.py
 ```
 
 ### Data
-The data can be access with this [link](https://drive.google.com/drive/folders/1uZudmS2y9npqG0sbfLy6AlduwFG32Kbg?usp=sharing). Put the data folder in the folder of SocialGrid to correctly read it.
+The data used in the paper can be access with this [link](https://drive.google.com/drive/folders/1uZudmS2y9npqG0sbfLy6AlduwFG32Kbg?usp=sharing). Please put the data folder in the folder of NesTPP to correctly read it.
+
+In order to use your own data, you'll have to provide:
+- An N size array recording the arrival time of N main threads
+- An N by D ndarray recording the arrival time of D replies of each main threads. Note that the number of D for each replies list can be different. 
+
+[Pushshift](https://github.com/pushshift/api) is an efficient way of searching threads and associated replies on Reddit, which is the data source of our paper.
+
+### Model
+
 
 ## Cite
 ```
