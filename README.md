@@ -1,7 +1,7 @@
 # SocialGrid
 A novel framework for forecasting thread dynamics in online discussion forums
 
-This is a implementation of the , as described in our paper:  
+This is a implementation of the framework SocialGrid, as described in our paper:  
 Chen Ling, Ruiqi Wang, and Guangmo Tong, [SocialGrid: A TCN-enhanced Method for Online Discussion Forecasting](https://arxiv.org/abs/2003.07189)
 
 ## Requirements
