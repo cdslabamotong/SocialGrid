@@ -32,11 +32,11 @@ The pre_trained models for reply and main event streams can be found in `SocialG
 
 
 <p align="center">
-  <img width="50%" src="model.png">
+  <img width="75%" src="model.png">
 </p>
 
 <p align="center">
-  <img width="50%" src="TCN_block.png">
+  <img width="40%" src="TCN_block.png">
 </p>
 
 ## Cite
