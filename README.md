@@ -18,7 +18,7 @@ python train_main.py
 ```
 
 ### Data
-The data used in the paper can be access with this [link](https://drive.google.com/drive/folders/1uZudmS2y9npqG0sbfLy6AlduwFG32Kbg?usp=sharing). Please put the data folder in the folder of SocialGrid to correctly read it.
+The data used in the paper can be access in the data zipped file. Please extract the zipped file into the folder named `data/` in the folder of SocialGrid to correctly read it.
 
 In order to use your own data, you'll have to provide:
 - An N size array recording the arrival time of N main threads
