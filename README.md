@@ -13,8 +13,9 @@ This code is written in Python. To use it you will need:
 ## Usage
 ### Run the demo
 ```
-python train_reply.py
+cd SocialGrid
 python train_main.py
+python train_reply.py
 ```
 
 ### Data
@@ -27,7 +28,16 @@ In order to use your own data, you'll have to provide:
 [Pushshift](https://github.com/pushshift/api) is an efficient way of searching threads and associated replies on Reddit, which is the data source of our paper.
 
 ### Model
-The pre_trained models for reply and main event streams can be found in `\pre_trained` folder
+The pre_trained models for reply and main event streams can be found in `SocialGrid/pre_trained/` folder.
+
+
+<p align="center">
+  <img width="50%" src="model.png">
+</p>
+
+<p align="center">
+  <img width="50%" src="TCN_block.png">
+</p>
 
 ## Cite
 ```
