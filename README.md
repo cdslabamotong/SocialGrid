@@ -2,7 +2,8 @@
 A novel framework for forecasting thread dynamics in online discussion forums
 
 This is a implementation of the framework SocialGrid, as described in our paper:  
-Chen Ling, Ruiqi Wang, and Guangmo Tong, [SocialGrid: A TCN-enhanced Method for Online Discussion Forecasting](https://arxiv.org/abs/2003.07189)
+On Forecasting Dynamics in Online Discussion Forums
+IEEE International Conference on Multimedia and Expo, 2021
 
 ## Requirements
 This code is written in Python. To use it you will need:
