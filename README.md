@@ -3,6 +3,7 @@ A novel framework for forecasting thread dynamics in online discussion forums
 
 This is a implementation of the framework SocialGrid, as described in our paper:  
 On Forecasting Dynamics in Online Discussion Forums
+
 IEEE International Conference on Multimedia and Expo, 2021
 
 ## Requirements
